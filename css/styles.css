@@ -1,0 +1,39 @@
+body {
+    font-family: Helvetica;
+}
+
+.jumbotron {
+    background-color:rgb(0,0, 0);
+    height: 30em;
+}
+
+.title-square {
+    height: 20em;
+    width: 20em;
+    border: rgb(255, 255, 255) solid ;
+    margin:  15px auto;
+
+}
+
+.title-header {
+    color: rgb(255, 255, 255);
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    line-height: 2em;
+    
+
+}
+
+.title-header2 {
+    color: rgb(255, 255, 255);
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 50px;
+    transform: rotate(180deg);
+    line-height: 2em;
+}
